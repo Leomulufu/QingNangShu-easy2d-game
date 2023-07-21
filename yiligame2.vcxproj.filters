@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Archive.cpp" />
+    <ClCompile Include="MedicineGame.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Medicine.cpp" />
+    <ClCompile Include="Plot.cpp" />
+    <ClCompile Include="PlotController.cpp" />
+    <ClCompile Include="Render.cpp" />
+    <ClCompile Include="SimilarSceneManager.cpp" />
+    <ClCompile Include="StartScene.cpp" />
+    <ClCompile Include="TmpData.cpp" />
+    <ClCompile Include="PlotConfig.cpp" />
+    <ClCompile Include="SceneInstance.cpp" />
+    <ClCompile Include="MedicineBook.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Archive.h" />
+    <ClInclude Include="MedicineGame.h" />
+    <ClInclude Include="Medicine.h" />
+    <ClInclude Include="Plot.h" />
+    <ClInclude Include="PlotController.h" />
+    <ClInclude Include="Render.h" />
+    <ClInclude Include="SimilarSceneManager.h" />
+    <ClInclude Include="StartScene.h" />
+    <ClInclude Include="TmpData.h" />
+    <ClInclude Include="PlotConfig.h" />
+    <ClInclude Include="SceneInstance.h" />
+    <ClInclude Include="MedicineBook.h" />
+  </ItemGroup>
+</Project>

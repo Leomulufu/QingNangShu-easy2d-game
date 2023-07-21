@@ -1,0 +1,19 @@
+﻿  Archive.cpp
+  MedicineGame.cpp
+D:\Major\_project\QingNanShu\yiligame2(2)\yiligame2\MedicineGame.cpp(47,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+  Medicine.cpp
+  MedicineBook.cpp
+  Plot.cpp
+  PlotConfig.cpp
+D:\Major\_project\QingNanShu\yiligame2(2)\yiligame2\PlotConfig.cpp(12,28): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+  PlotController.cpp
+  Render.cpp
+D:\Major\_project\QingNanShu\yiligame2(2)\yiligame2\Render.cpp(46,28): warning C4305: “=”: 从“double”到“float”截断
+  SceneInstance.cpp
+  SimilarSceneManager.cpp
+  StartScene.cpp
+  TmpData.cpp
+  正在生成代码...
+  LINK : 没有找到 D:\Major\_project\QingNanShu\yiligame2(2)\x64\Debug\yiligame2.exe 或上一个增量链接没有生成它；正在执行完全链接
+  yiligame2.vcxproj -> D:\Major\_project\QingNanShu\yiligame2(2)\x64\Debug\yiligame2.exe

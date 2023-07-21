@@ -1,0 +1,9 @@
+﻿  libPlot.cpp
+D:\vscodeProject\yiligame2\yiligame2\libPlot.cpp(100,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vscodeProject\yiligame2\yiligame2\libPlot.cpp(101,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  3 of 221 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  yiligame2.vcxproj -> D:\vscodeProject\yiligame2\x64\Release\yiligame2.exe

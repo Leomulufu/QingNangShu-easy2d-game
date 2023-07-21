@@ -1,0 +1,4 @@
+D:\vscodeProject\yiligame2\yiligame2\x64\Debug\yiligame2.exe
+D:\Major\project\youyou\yiligame2(2)\yiligame2\x64\Debug\yiligame2.exe
+D:\Major\_project\QingNangShu\yiligame2(2)\yiligame2\x64\Debug\yiligame2.exe
+D:\Major\_project\QingNanShu\yiligame2(2)\yiligame2\x64\Debug\yiligame2.exe
